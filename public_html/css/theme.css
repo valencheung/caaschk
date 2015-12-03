@@ -1,0 +1,37 @@
+00ff6f.w3-btn, .w3-btn:link, .w3-btn:visited {background-color: #996633;}
+.w3-code {border-left: 4px solid #666666 !important;}
+.w3-sidenav h2 {color: red;font-size:20px;margin-left: 16px;}
+.w3-topnav {font-size: 16px}
+.w3-example {margin-top:16px}
+#main {margin-left: 220px;}
+.w3-sidenav {font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;width: 220px;}
+.active {background-color:red !important;color:#fff !important;}
+
+@media only screen and (max-width: 728px) {
+.w3-sidenav {display: none;}
+.w3-opennav {display:inline-block !important;}
+#main {margin-left:0% !important;}
+}
+
+.w3-theme-light {color:#000 !important;background-color:#fff !important}
+.w3-theme-l5 {color:#000 !important;background-color:#fff !important}
+.w3-theme-l4 {color:#000 !important;background-color:#ffede5 !important}
+.w3-theme-l3 {color:#000 !important;background-color:#ffb699 !important}
+.w3-theme-l2 {color:#000 !important;background-color:#ff9266 !important}
+.w3-theme-l1 {color:#fff !important;background-color:#ff6d33 !important}
+
+.w3-theme {color:#fff !important;background-color:#ff4900 !important}
+.w3-text-theme {color:#ff4900 !important}
+
+.w3-theme-d1 {color:#fff !important;background-color:#992c00 !important}
+.w3-theme-d2 {color:#fff !important;background-color:#661d00 !important}
+.w3-theme-d3 {color:#fff !important;background-color:#330f00 !important}
+.w3-theme-d4 {color:#fff !important;background-color:#1a0700 !important}
+.w3-theme-dark {color:#fff !important;background-color:#1a0700 !important}
+
+.w3-theme-action {color:#fff !important;background-color:#1a0700 !important}
+
+.w3-theme-contrast {color:#992c00 !important; background-color:#00ffb2 !important}
+.w3-theme-accent {color:#fff !importnat; background-color:#00ff6f !important}
+
+

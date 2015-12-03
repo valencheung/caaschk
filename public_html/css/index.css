@@ -1,0 +1,22 @@
+a:link{text-decoration: none;}
+a:hover{text-decoration:underline;}
+
+body>#nav{height:30px;}
+#nav ul li {display:inline;}
+#ulnav {margin:8px 0 0 0;
+        padding:0;
+        list-style-type:none;}
+#ulnav>li>a:link{color:white;text-decoration:none;}
+#ulnav>li>a:visited{color:white;}
+#ulnav>li>a:hover{color:white; text-decoration:underline;}
+#ulnav>li>a:active{color:white;}
+
+ul.share-buttons{
+  list-style-type: none;
+  padding: 0;
+  margin-left:10px;margin-bottom:10px;
+}
+ul.share-buttons>li{float:left; margin:3px;}
+
+
+p {line-height: 1.5em; letter-spacing: 0.05em;}
